@@ -18,5 +18,7 @@ function render(component, container, place = RenderPosition.BEFOREEND) {
 }
 
 export {RenderPosition, createElement, render};
+export {RenderPosition, createElement, render};
+export {RenderPosition, createElement, render};
 
 // добавляю комментарий для теста 
